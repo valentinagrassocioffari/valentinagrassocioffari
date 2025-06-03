@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Valentina👋
+---
 
-<!--
-**valentinagrassocioffari/valentinagrassocioffari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer based in Rome, Italy.
 
-Here are some ideas to get you started:
+- 🏢 I'm currently looking for a full time job.
+- ⚙️ I use daily: `python`,`.sql`,`google sheets`,`docker`
+- 🌍 I support and volunteer with: **Code Nation, Built By Girls, AllStar Code**
+- 💅 Active community member of: **Out in Tech, Techqueria, Girls Who Code**
+- 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
+- 💬 Ping me about: **wed design**, **social media**, **diversity & inclusion**, **mentorship**,
+- 📫 Reach me asap: https://www.linkedin.com/in/valentina-grasso-cioffari-498aa1325/
+- 💜 Interests: writer, analysis,
+- 😄 Passionate about accessibility and committed to a web that works for everyone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Find me around the web 🌎:
+- 💼 Connecting and sharing professional updates on <a href=(https://www.linkedin.com/in/valentina-grasso-cioffari-498aa1325/)>LinkedIn</a>
+- 🎧 Listening to all my favorite jams on <a href=(https://www.spotify.com/it/account/overview/)>Spotify</a>
